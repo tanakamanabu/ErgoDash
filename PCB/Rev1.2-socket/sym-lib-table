@@ -1,0 +1,9 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "ergodash") (type "Legacy") (uri "${KIPRJMOD}/library/ergodash.lib") (options "") (descr ""))
+	(lib (name "promicro") (type "Legacy") (uri "${KIPRJMOD}/library/promicro.lib") (options "") (descr ""))
+	(lib (name "conn") (type "Legacy") (uri "${KIPRJMOD}/library/conn.lib") (options "") (descr ""))
+	(lib (name "switches") (type "Legacy") (uri "${KIPRJMOD}/library/switches.lib") (options "") (descr ""))
+	(lib (name "transistors") (type "Legacy") (uri "${KIPRJMOD}/library/transistors.lib") (options "") (descr ""))
+	(lib (name "ws2812b") (type "Legacy") (uri "${KIPRJMOD}/library/ws2812b.lib") (options "") (descr ""))
+)
