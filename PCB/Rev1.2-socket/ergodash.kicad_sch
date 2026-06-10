@@ -5388,7 +5388,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:trrs_jack"
+		(property "Footprint" "library:trrs_jack2"
 			(at 96.52 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -5810,7 +5810,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 129.54 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -5977,7 +5977,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 151.13 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -6060,7 +6060,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 172.72 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -6143,7 +6143,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 194.31 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -6226,7 +6226,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 215.9 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -6309,7 +6309,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 237.49 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -6392,7 +6392,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 259.08 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -6979,7 +6979,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 129.54 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -7062,7 +7062,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 151.13 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -7145,7 +7145,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 172.72 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -7228,7 +7228,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 194.31 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -7311,7 +7311,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 215.9 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -7394,7 +7394,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 237.49 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -7477,7 +7477,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 259.08 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -7560,7 +7560,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 259.08 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -7643,7 +7643,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 237.49 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -7726,7 +7726,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 215.9 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -7809,7 +7809,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 194.31 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -7892,7 +7892,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 172.72 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -7975,7 +7975,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 151.13 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -8058,7 +8058,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 129.54 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -8141,7 +8141,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 129.54 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -8224,7 +8224,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 151.13 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -8307,7 +8307,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 172.72 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -8390,7 +8390,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 194.31 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -8473,7 +8473,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 215.9 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -8556,7 +8556,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 237.49 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -8639,7 +8639,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 259.08 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -11058,7 +11058,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 129.54 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -11141,7 +11141,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 151.13 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -11224,7 +11224,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 172.72 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -11307,7 +11307,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 194.31 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -11390,7 +11390,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 215.9 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -11473,7 +11473,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 237.49 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -12781,7 +12781,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 237.49 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -12941,7 +12941,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 194.31 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -13024,7 +13024,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 259.08 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -13191,7 +13191,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 259.08 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -13274,7 +13274,7 @@
 				)
 			)
 		)
-		(property "Footprint" "library:MX_ALPS"
+		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
 			(at 259.08 67.31 0)
 			(hide yes)
 			(show_name no)
