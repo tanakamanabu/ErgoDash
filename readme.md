@@ -1,3 +1,15 @@
+# About this fork
+
+このリポジトリは [omkbd/ErgoDash](https://github.com/omkbd/ErgoDash) のフォークです。
+既存の ErgoDash を改変し、キースイッチのソケット（ホットスワップ）対応版を作ることを目的としています。
+オリジナルの ErgoDash については本家リポジトリを参照してください。
+
+This repository is a fork of [omkbd/ErgoDash](https://github.com/omkbd/ErgoDash),
+aiming to create a hot-swap socket compatible version of the ErgoDash.
+For the original ErgoDash, please refer to the upstream repository.
+
+---
+
 # Notice
 
 2019/5/5にファームウェアをアップデートしました。  
