@@ -962,7 +962,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "ergodash/",
       "specctra_dsn": "",
       "vrml": ""
     },
