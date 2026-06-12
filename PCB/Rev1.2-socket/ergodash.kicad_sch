@@ -2002,12 +2002,6 @@
 		)
 	)
 	(junction
-		(at 245.11 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "049c0373-14a7-459f-bebe-18a3d9044b1f")
-	)
-	(junction
 		(at 229.87 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2188,12 +2182,6 @@
 		(uuid "6fa3b3b3-97ba-4d0e-bcbc-545aee3cd47a")
 	)
 	(junction
-		(at 251.46 67.31)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7bb87054-3942-48ee-bf61-cdb2fbd3a898")
-	)
-	(junction
 		(at 180.34 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2224,18 +2212,6 @@
 		(uuid "90dc88c4-95ad-4192-a418-5e379c22723c")
 	)
 	(junction
-		(at 229.87 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9119ab70-4e52-4479-8bb9-a4b4b73a569e")
-	)
-	(junction
-		(at 266.7 72.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9a122518-7c0f-46c6-a5be-415f77729fab")
-	)
-	(junction
 		(at 251.46 26.67)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2254,12 +2230,6 @@
 		(uuid "a4afd3da-e72d-4dd4-ae85-3be577e6fa0a")
 	)
 	(junction
-		(at 251.46 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a4e17af8-feff-4724-8cd6-3205ba0cd910")
-	)
-	(junction
 		(at 208.28 26.67)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2270,18 +2240,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b9defd32-845a-4a88-8bec-a783e9b04d47")
-	)
-	(junction
-		(at 266.7 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "baa7c7f3-f15c-48c6-b4e4-9fa010b73e8e")
-	)
-	(junction
-		(at 186.69 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bbfec449-520e-4f72-864c-5ba674413eb7")
 	)
 	(junction
 		(at 100.33 53.34)
@@ -2312,12 +2270,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "caada787-3e05-4136-af90-9ea792f52a40")
-	)
-	(junction
-		(at 201.93 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cbdb5341-1817-4d6d-b261-0a50ea0bed09")
 	)
 	(junction
 		(at 229.87 26.67)
@@ -2455,7 +2407,7 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 72.39) (xy 229.87 83.82)
+			(xy 229.87 72.39) (xy 229.87 91.44)
 		)
 		(stroke
 			(width 0)
@@ -2505,7 +2457,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 67.31) (xy 251.46 72.39)
+			(xy 251.46 57.15) (xy 251.46 72.39)
 		)
 		(stroke
 			(width 0)
@@ -2565,16 +2517,6 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 83.82) (xy 229.87 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1e699fc1-fae6-4bf8-8614-bb0ddaeee972")
-	)
-	(wire
-		(pts
 			(xy 68.58 59.69) (xy 68.58 49.53)
 		)
 		(stroke
@@ -2602,16 +2544,6 @@
 			(type default)
 		)
 		(uuid "22d2055a-9b64-4c3a-8630-a212445212bb")
-	)
-	(wire
-		(pts
-			(xy 251.46 83.82) (xy 251.46 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "22f1263e-21d3-45e4-a6c6-3137b89b9505")
 	)
 	(wire
 		(pts
@@ -2785,16 +2717,6 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 57.15) (xy 251.46 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "469735dc-e3da-4665-83f5-ae89df2a231b")
-	)
-	(wire
-		(pts
 			(xy 20.32 107.95) (xy 33.02 107.95)
 		)
 		(stroke
@@ -2825,7 +2747,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 72.39) (xy 186.69 83.82)
+			(xy 186.69 72.39) (xy 186.69 91.44)
 		)
 		(stroke
 			(width 0)
@@ -2955,16 +2877,6 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 67.31) (xy 266.7 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6bfa87c2-2907-4141-86e4-6575035c4203")
-	)
-	(wire
-		(pts
 			(xy 158.75 49.53) (xy 180.34 49.53)
 		)
 		(stroke
@@ -3062,16 +2974,6 @@
 			(type default)
 		)
 		(uuid "80ce6601-eeef-4676-bbd6-aee873980a47")
-	)
-	(wire
-		(pts
-			(xy 245.11 91.44) (xy 245.11 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "81600ccf-2b0f-4064-9162-22f5bb7598a6")
 	)
 	(wire
 		(pts
@@ -3585,16 +3487,6 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 83.82) (xy 186.69 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d534d57e-244e-4b19-a674-2aef7f2382dc")
-	)
-	(wire
-		(pts
 			(xy 77.47 19.05) (xy 77.47 24.13)
 		)
 		(stroke
@@ -3662,16 +3554,6 @@
 			(type default)
 		)
 		(uuid "ecaf5ee9-52b8-416c-958e-335d5bdc15bc")
-	)
-	(wire
-		(pts
-			(xy 201.93 83.82) (xy 201.93 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ed28ca0f-806e-4b29-97e1-3a5e7a0720b2")
 	)
 	(wire
 		(pts
@@ -12751,89 +12633,6 @@
 		)
 	)
 	(symbol
-		(lib_id "ergodash:SW_PUSH")
-		(at 237.49 83.82 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005b057899")
-		(property "Reference" "SW36"
-			(at 241.3 81.026 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_PUSH"
-			(at 237.49 85.852 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
-			(at 237.49 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 237.49 83.82 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 237.49 83.82 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "17c26a45-bba1-4956-947b-f07984a41aa3")
-		)
-		(pin "2"
-			(uuid "a04c7ef1-494f-40b5-84ed-a51f8904a6c0")
-		)
-		(instances
-			(project ""
-				(path "/5c86eef8-030e-46e9-b345-e7149e6b69e1"
-					(reference "SW36")
-					(unit 1)
-				)
-			)
-			(project "ergodash"
-				(path "/6657b211-9032-46ac-a178-179b3848daf2"
-					(reference "SW36")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "ergodash:HOLE")
 		(at 151.13 184.15 0)
 		(unit 1)
@@ -12905,172 +12704,6 @@
 			(project "ergodash"
 				(path "/6657b211-9032-46ac-a178-179b3848daf2"
 					(reference "U9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "ergodash:SW_PUSH")
-		(at 194.31 83.82 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005b1be4a6")
-		(property "Reference" "SW38"
-			(at 198.12 81.026 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_PUSH"
-			(at 194.31 85.852 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
-			(at 194.31 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 194.31 83.82 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 194.31 83.82 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "71f03ee0-c622-4405-84fe-53b0d1b2020b")
-		)
-		(pin "1"
-			(uuid "cb34bd54-4e9d-44e2-b8ff-9ae4bff6ac5c")
-		)
-		(instances
-			(project ""
-				(path "/5c86eef8-030e-46e9-b345-e7149e6b69e1"
-					(reference "SW38")
-					(unit 1)
-				)
-			)
-			(project "ergodash"
-				(path "/6657b211-9032-46ac-a178-179b3848daf2"
-					(reference "SW38")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "ergodash:SW_PUSH")
-		(at 259.08 91.44 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005b1c7bc5")
-		(property "Reference" "SW41"
-			(at 262.89 88.646 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_PUSH"
-			(at 259.08 93.472 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
-			(at 259.08 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 259.08 91.44 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 259.08 91.44 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "af9bfa43-f121-4b8d-b176-375b807afdbd")
-		)
-		(pin "2"
-			(uuid "d804cc50-c7bb-4f1d-9b76-122fac45bb55")
-		)
-		(instances
-			(project ""
-				(path "/5c86eef8-030e-46e9-b345-e7149e6b69e1"
-					(reference "SW41")
-					(unit 1)
-				)
-			)
-			(project "ergodash"
-				(path "/6657b211-9032-46ac-a178-179b3848daf2"
-					(reference "SW41")
 					(unit 1)
 				)
 			)
@@ -13238,89 +12871,6 @@
 			(project "ergodash"
 				(path "/6657b211-9032-46ac-a178-179b3848daf2"
 					(reference "SW40")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "ergodash:SW_PUSH")
-		(at 259.08 67.31 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005b1c8b13")
-		(property "Reference" "SW39"
-			(at 262.89 64.516 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_PUSH"
-			(at 259.08 69.342 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "socket:SW_Hotswap_Kailh_MX_Plated"
-			(at 259.08 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 259.08 67.31 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 259.08 67.31 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "95237777-5bbe-4a2c-9793-e6a36a177fa8")
-		)
-		(pin "2"
-			(uuid "96d35085-e498-4873-b2c7-a6599b70c303")
-		)
-		(instances
-			(project ""
-				(path "/5c86eef8-030e-46e9-b345-e7149e6b69e1"
-					(reference "SW39")
-					(unit 1)
-				)
-			)
-			(project "ergodash"
-				(path "/6657b211-9032-46ac-a178-179b3848daf2"
-					(reference "SW39")
 					(unit 1)
 				)
 			)
