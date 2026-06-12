@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "socket") (type "KiCad") (uri "${KIPRJMOD}/socket.pretty") (options "") (descr "Kailh hotswap socket footprints (from kiswitch)"))
+)
