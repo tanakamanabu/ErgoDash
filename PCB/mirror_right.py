@@ -35,6 +35,21 @@ for dr in board.GetDrawings():        # gr_line/poly/text/dimension
     dr.Flip(centre, direction)
     n_draw += 1
 
+# The mirror copies the left board wholesale, so the title block still says
+# "...-left". Stamp it as the right board (title block is metadata only; it does
+# not appear in the gerbers, but keeps the project files self-describing).
+tb = board.GetTitleBlock()
+title = tb.GetTitle()
+new_title = (title.replace("Socket-left", "Socket-right")
+                  .replace("left", "right")
+                  .replace("Left", "Right"))
+if new_title != title:
+    tb.SetTitle(new_title)
+    board.SetTitleBlock(tb)
+    print(f"title: {title!r} -> {new_title!r}")
+else:
+    print(f"title unchanged ({title!r}); no 'left' token to swap")
+
 board.BuildConnectivity()
 pcbnew.SaveBoard(path, board)
 print(f"mirrored: footprints={n_fp} tracks={n_tr} zones={n_zone} drawings={n_draw}")
