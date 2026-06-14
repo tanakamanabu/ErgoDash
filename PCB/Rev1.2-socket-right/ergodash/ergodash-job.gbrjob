@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "10.0.3"
     },
-    "CreationDate": "2026-06-13T18:59:16+09:00"
+    "CreationDate": "2026-06-14T14:45:17+09:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "ergodash",
       "GUID": "6572676f-6461-4736-982e-6b696361645f",
-      "Revision": "2.0"
+      "Revision": "2.1"
     },
     "Size": {
       "X": 150.0362,
