@@ -8,10 +8,10 @@
 	)
 	(paper "A4")
 	(title_block
-		(title "ErgoDash Rev2")
-		(date "2018-06-07")
-		(rev "2.0")
-		(company "Omkbd")
+		(title "ErgoDash Rev2 Socket-left")
+		(date "2026-06-13")
+		(rev "2.1")
+		(company "tsubu")
 	)
 	(layers
 		(0 "F.Cu" signal)
@@ -36146,6 +36146,78 @@
 		(layer "Edge.Cuts")
 		(uuid "a60a24ac-d337-4a7d-8d44-27d9878f93eb")
 	)
+	(gr_text "RX1"
+		(at 131.978 42.256 0)
+		(layer "F.SilkS")
+		(uuid "758cfe7f-cfee-46e3-b4a6-4c8bf7e25a89")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "GND"
+		(at 131.978 44.756 0)
+		(layer "F.SilkS")
+		(uuid "775727da-4404-427d-9da7-059b995373b9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "TX0"
+		(at 132.478 39.756 0)
+		(layer "F.SilkS")
+		(uuid "8d55638e-28ab-4ed7-9d19-27ae3ac97077")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "RAW"
+		(at 152.978 39.756 0)
+		(layer "F.SilkS")
+		(uuid "d2cf9f7c-7b6e-41a9-8c49-037732f99197")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "GND"
+		(at 152.978 42.256 0)
+		(layer "F.SilkS")
+		(uuid "18484033-17bf-4ee3-a2b4-afdf4ea9e09b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "RST"
+		(at 152.978 45.256 0)
+		(layer "F.SilkS")
+		(uuid "356dcfb1-8e19-4746-afa2-6619a84083c5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "ErgoDash Rev. 1.2\nSocketed by tsubu"
 		(at 151.638 139.7 0)
 		(layer "F.SilkS")
@@ -36166,6 +36238,78 @@
 				(size 2 2)
 				(thickness 0.3)
 			)
+		)
+	)
+	(gr_text "TX0"
+		(at 134.978 39.756 0)
+		(layer "B.SilkS")
+		(uuid "75526beb-2818-473e-90c7-af17c4ac2005")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "RX1"
+		(at 134.978 42.256 0)
+		(layer "B.SilkS")
+		(uuid "d3a6749d-9b39-4568-9dd5-16674922d716")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GND"
+		(at 134.978 44.756 0)
+		(layer "B.SilkS")
+		(uuid "d7bc5dfd-d156-4a2c-bcbb-64eaeeddd261")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "RST"
+		(at 155.978 45.256 0)
+		(layer "B.SilkS")
+		(uuid "f7f000bc-089f-4037-871a-801a408602a8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "RAW"
+		(at 156.478 39.756 0)
+		(layer "B.SilkS")
+		(uuid "395d6910-3cdc-405e-bccf-baa1dab156b3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GND"
+		(at 156.478 42.256 0)
+		(layer "B.SilkS")
+		(uuid "320cffa3-7270-490e-b43c-667e6533c784")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
 		)
 	)
 	(gr_text "ErgoDash Rev. 1.2\nSocketed by tsubu"
