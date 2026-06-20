@@ -24,12 +24,23 @@ path = sys.argv[1]
 board = pcbnew.LoadBoard(path)
 direction = pcbnew.FLIP_DIRECTION_LEFT_RIGHT
 
+# Post-flip rotation fix-ups (degrees, applied after the flip). After flipping,
+# the socket "wings" (SMD pads) of a couple of edge thumb keys point off the
+# board outline; rotating them brings the socket fully onto the board.
+#   SW40 is a 2U key -> only 180 deg is allowed (90 would make it a vertical 2U).
+#   SW35 is a 1U (square) key -> any 90 deg step is fine; +270 clears the edge.
+ROTATE = {"SW40": 180, "SW35": 270}
+
 n = 0
 for fp in board.GetFootprints():
     if "Hotswap" in str(fp.GetFPID().GetLibItemName()):
         fp.Flip(fp.GetPosition(), direction)   # flip about own anchor -> stays in place
+        extra = ROTATE.get(fp.GetReference())
+        if extra:
+            fp.Rotate(fp.GetPosition(), pcbnew.EDA_ANGLE(extra, pcbnew.DEGREES_T))
         n += 1
 
 board.BuildConnectivity()
 pcbnew.SaveBoard(path, board)
-print(f"flipped {n} socket footprints to F.Cu")
+print(f"flipped {n} socket footprints to F.Cu "
+      f"(rotated {', '.join(ROTATE)} to fit on board)")
